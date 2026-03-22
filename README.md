@@ -59,3 +59,21 @@ Some of the analysis performed:
 # Objective
 
 The objective of this project is to analyze citizen grievances and apply machine learning techniques to classify complaints and understand public service issues.
+
+# Results
+
+- Logistic Regression Accuracy: ~87%
+- Naive Bayes Accuracy: ~87%
+- Decision Tree Accuracy: ~87%
+- Random Forest Accuracy: ~87%
+
+All models performed similarly. Naive Bayes was selected as the final model.
+
+# Visualizations
+
+- Category Distribution
+- Location Distribution
+- Complaint Length Distribution
+- WordCloud
+- Model Comparison Graph
+- Confusion Matrix
